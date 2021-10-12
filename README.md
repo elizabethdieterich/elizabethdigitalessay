@@ -5,8 +5,8 @@ exploring the girl with the pearl earring
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="Elizabeth Dieterich"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Pictures_of_the_Year/2007_(finalist)#/media/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg" 
-       layout="horizontal">
+       banner="https://iiif.juncture-digital.org/banner/?url="https://commons.wikimedia.org/wiki/Category:Pictures_of_the_Year/2007_(finalist)#/media/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg" 
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
