@@ -5,7 +5,7 @@ exploring the girl with the pearl earring
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="Elizabeth Dieterich"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Pictures_of_the_Year/2007_(finalist)#/media/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg" 
        layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
