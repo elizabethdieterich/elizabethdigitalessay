@@ -6,7 +6,7 @@ exploring the girl with the pearl earring
        title="Girl with a Pearl Earring"
        author="Elizabeth Dieterich"
        banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Pictures_of_the_Year/2007_(finalist)#/media/File:Hawaii_turtle_2.JPG" 
-       layout="horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
